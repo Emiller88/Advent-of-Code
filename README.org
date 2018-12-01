@@ -1,0 +1,5 @@
+#+TITLE: README
+My [[https://adventofcode.com/2018][Advent of Code]] solutions!
+
+In order to better familiarize myself with Haskell tooling I have worked to
+recreate [[https://github.com/mstksg/advent-of-code-2018][mstksg's setup]].
